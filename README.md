@@ -19,15 +19,15 @@ Assistance from
 YouTube Videos & Cheat Sheets
 --------------------------------------------------
 
-1.	Links from Mark Jenson:	PostgreSQL Tutorial
+1.	Links from Mark Jenson:	PostgreSQL Tutorial - https://www.tutorialspoint.com/postgresql/
 
-2.	QuickDBD - https://www.quickdatabasediagrams.com/
+3.	QuickDBD - https://www.quickdatabasediagrams.com/
 
-3.	SQL Reference Guide:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/09-SQL/Supplemental/SQL_reference_guide.pdf
+4.	SQL Reference Guide:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/09-SQL/Supplemental/SQL_reference_guide.pdf
 
-4.	SQL Troubleshooting Guide:		https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/09-SQL/Supplemental/SQL_troubleshooting_guide.md
+5.	SQL Troubleshooting Guide:		https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/09-SQL/Supplemental/SQL_troubleshooting_guide.md
 
-5.	SQL Tutorial:	https://www.w3schools.com/sql/sql_intro.asp
+6.	SQL Tutorial:	https://www.w3schools.com/sql/sql_intro.asp
 
 
 --------------------------------------------------
